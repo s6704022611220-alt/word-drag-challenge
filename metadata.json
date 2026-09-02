@@ -1,0 +1,6 @@
+{
+  "name": "Word & Drag Challenge",
+  "description": "เกมฝึกคำศัพท์ภาษาอังกฤษแบบอินเตอร์แอคทีฟ รองรับการพิมพ์ แป้นพิมพ์คีย์บอร์ด และการลากวางคำศัพท์ลงหมวดหมู่",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
