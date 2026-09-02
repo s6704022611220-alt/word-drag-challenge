@@ -66,7 +66,7 @@ function aistudioMediaPlugin(): Plugin {
 
 export default defineConfig(() => {
   return {
-    base: process.env.NODE_ENV === 'production' ? '/word-drag-challenge/' : '/',
+    base: '/word-drag-challenge/',
     plugins: [react(), tailwindcss(), aistudioMediaPlugin()],
     resolve: {
       alias: {
